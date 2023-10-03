@@ -11,6 +11,7 @@ public class welcome {
 
 		}
 		System.out.println("This is vijay");
-	}
+		
+	}{System.out.println("This is dinesh");}
 
 }
