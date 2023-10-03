@@ -4,7 +4,7 @@ public class welcome {
 
 	public static void main(String[] args) {
 
-		String obj = "WELCOME";
+		String obj = "WELCOME GUYS";
 
 		for (int i = 0; i < obj.length(); i++) {
 			System.out.println(obj.charAt(i));
